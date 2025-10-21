@@ -1,5 +1,9 @@
 # \# Auno App Demo
 
+## Download Demo
+[Download Auno App Demo v1.0](https://github.com/sunny-bboy/auno_app_demo/releases/download/v1.0/app-release.apk)
+
+
 # \*\*Developed by Auno Technologies\*\*
 
 # 
