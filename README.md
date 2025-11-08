@@ -1,64 +1,39 @@
-# \# Auno App Demo
+Download
+Download Auno App Demo v1.0
 
-## Download Demo
-[Download Auno App Demo v1.0](https://github.com/sunny-bboy/auno_app_demo/releases/download/v1.0/app-release.apk)
+About
+Auno is a business assistant app that brings together the tools you need to start and run a business from your phone. We built it specifically for South African entrepreneurs who want to formalize their businesses without the usual complexity.
 
+The app combines AI-powered chat, secure messaging, simplified business registration, and a drag-and-drop website builder. Everything works offline-first, so you're not dependent on constant connectivity.
 
-# \*\*Developed by Auno Technologies\*\*
+Core Features
+Conversational AI assistant for business guidance and support
+Encrypted real-time messaging for customer communication
+Streamlined CIPC business registration process
+Website builder that requires zero coding knowledge
+Secure authentication and data protection
+Technology
+Built with Flutter and Dart for consistent performance across Android and iOS devices. The architecture prioritizes speed and reliability, especially on entry-level smartphones common in our target market.
 
-# 
+Installation
+Download the APK file from the release link above
+Copy to your Android device
+Navigate to Settings > Security and enable "Unknown Sources"
+Open the APK file to install
+Launch Auno from your app drawer
+Repository Structure
+text
+/auno_app_demo
+├── README.md
+└── releases/
+    └── app-release.apk
+Hackathon Submission
+Event: FNB App of the Year Hackathon
+Company: Auno Technologies
+Category: Best Financial Solution / Innovation Award
+Focus Area: Youth entrepreneurship and digital inclusion
 
-# The \*\*Auno App\*\* is a cross-platform intelligent assistant that simplifies personal and business workflows through \*\*artificial intelligence\*\*. It combines \*\*conversational AI\*\*, \*\*secure authentication\*\*, \*\*real-time chat\*\*, \*\*business registration\*\*, and a \*\*no-code website builder\*\* into one unified platform.  
-
-# 
-
-# Designed to \*\*empower South African youth\*\*, Auno helps users start businesses, access essential digital tools, and build skills for a technology-driven economy. By bringing together communication, decision support, and creative features, Auno promotes \*\*self-employment\*\* and reduces barriers to entrepreneurship.  
-
-# 
-
-# Built using the \*\*Flutter framework\*\* and \*\*Dart language\*\*, the app offers fast, scalable, and consistent performance across Android and iOS devices — turning smartphones into engines of \*\*innovation and opportunity\*\*.  
-
-# 
-
-# ---
-
-# 
-
-# \### \*\*Repository Contents\*\*
-
-# \- 📱 `auno\_app\_demo.apk` – Demo APK for testing  
-
-# \- 🧠 Description \& usage guide  
-
-# 
-
-# ---
-
-# 
-
-# \### \*\*About\*\*
-
-# \*\*Company:\*\* Auno Technologies  
-
-# \*\*Submission:\*\* FNB App of the Year Hackathon  
-
-# \*\*Category:\*\* Best Financial / Innovative Solution  
-
-# 
-
-# ---
-
-# 
-
-# \### \*\*Installation\*\*
-
-# 1\. Download the APK file from this repository.  
-
-# 2\. Transfer it to your Android device.  
-
-# 3\. Enable \*Install from Unknown Sources\* in settings.  
-
-# 4\. Install and explore the Auno App demo.
-
+License
+Proprietary - Auno Technologies 2025
 
 
